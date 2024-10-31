@@ -1,0 +1,14 @@
+{
+	"apiVersion": 2,
+	"name": "ud-blocks/star-rating",
+	"title": "Star Rating",
+	"category": "widgets",
+	"description": "Star Rating Block",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "pb-star-rating",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
